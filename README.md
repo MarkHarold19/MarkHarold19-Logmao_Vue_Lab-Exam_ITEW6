@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# Logmao_Vue_Lab-Exam_ITEW6_ 
